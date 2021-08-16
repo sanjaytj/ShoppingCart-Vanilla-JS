@@ -1,5 +1,5 @@
 # ShoppingCart-Vanilla-JS
-Here we will me making use of Local Storage Primarily, We will also try to  create a login page and use JSON Data. 
+Here we will be making use of Local Storage Primarily. 
 ![image](https://user-images.githubusercontent.com/67264522/129522383-96de97df-fa54-4eae-b853-e6b4c2fabfbc.png)
 When products added to shopping cart 
 ![image](https://user-images.githubusercontent.com/67264522/129522456-fcedd1d8-547c-45fd-83d0-e2a73a031bc9.png)
