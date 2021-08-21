@@ -1,4 +1,7 @@
 # ShoppingCart-Vanilla-JS
+
+Do visit the link to view the Project Executed : https://sanjaytj.github.io/ShoppingCart-Vanilla-JS/
+
 Here we will be making use of Local Storage Primarily. 
 ![image](https://user-images.githubusercontent.com/67264522/129522383-96de97df-fa54-4eae-b853-e6b4c2fabfbc.png)
 When products added to shopping cart <br>
